@@ -63,11 +63,11 @@ Foram nos apresentados 5 principais desafios:
 Cliente → Chatbot IA → N8N Automations → ERP / CRM → Metabase Dashboard
 ````
 
-📊 *Todos os sistemas se comunicam via APIs e automações seguras, garantindo fluidez, escalabilidade e centralização de dados.*
+*Todos os sistemas se comunicam via APIs e automações seguras, garantindo fluidez, escalabilidade e centralização de dados.*
 
 ---
 
-## 🧱 Organização do Repositório
+## Organização do Repositório
 
 | Pasta             | Conteúdo                                                                         |
 | ----------------- | -------------------------------------------------------------------------------- |
